@@ -1,0 +1,25 @@
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\vvs.mdf
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\vvs_log.ldf
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\YellowPages.exe.config
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\YellowPages.exe
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\YellowPages.pdb
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.csprojAssemblyReference.cache
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.Properties.Resources.resources
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.viewForm.resources
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.csproj.GenerateResource.cache
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.csproj.CoreCompileInputs.cache
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.exe
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.pdb
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.AddForm.resources
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\bin\Debug\YellowPages.exe.config
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.exe
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.pdb
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\bin\Debug\vvs.mdf
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\bin\Debug\vvs_log.ldf
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\bin\Debug\YellowPages.exe
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\bin\Debug\YellowPages.pdb
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.AddForm.resources
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.Properties.Resources.resources
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.viewForm.resources
+C:\Users\Student\Desktop\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.csproj.GenerateResource.Cache
