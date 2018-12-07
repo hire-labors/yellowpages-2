@@ -1,0 +1,26 @@
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\vvs.mdf
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\vvs_log.ldf
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\YellowPages.exe.config
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\YellowPages.exe
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\bin\Debug\YellowPages.pdb
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.csprojAssemblyReference.cache
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.Properties.Resources.resources
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.viewForm.resources
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.csproj.GenerateResource.cache
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.csproj.CoreCompileInputs.cache
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.exe
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.pdb
+C:\Users\Nedu\source\repos\YellowPages\YellowPages\obj\Debug\YellowPages.AddForm.resources
+D:\YellowPages\AST project\YellowPages\bin\Debug\vvs.mdf
+D:\YellowPages\AST project\YellowPages\bin\Debug\vvs_log.ldf
+D:\YellowPages\AST project\YellowPages\bin\Debug\YellowPages.exe.config
+D:\YellowPages\AST project\YellowPages\bin\Debug\YellowPages.exe
+D:\YellowPages\AST project\YellowPages\bin\Debug\YellowPages.pdb
+D:\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.AddForm.resources
+D:\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.Properties.Resources.resources
+D:\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.viewForm.resources
+D:\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.csproj.GenerateResource.cache
+D:\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.csproj.CoreCompileInputs.cache
+D:\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.exe
+D:\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.pdb
+D:\YellowPages\AST project\YellowPages\obj\Debug\YellowPages.csprojAssemblyReference.cache
